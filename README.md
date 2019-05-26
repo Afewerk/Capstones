@@ -11,7 +11,7 @@ Four major questions were raised in this report.
   > Explore post stop reports and show who gets the most citation
   
   Report
-  >  https://github.com/Afewerk/Capstones/blob/master/CapstonOne%20%231%20-%20Policing_Minneapolis.ipynb
+  >  https://github.com/Afewerk/Capstones/blob/master/CapstonOne%20%231%20-%20Policing-Minneapolis.ipynb
   
   Data Source: 
   
