@@ -1,6 +1,6 @@
 
 # Capstons 
-Cappstone #1 Policing Meanneapolis https://github.com/Afewerk/Capstones/blob/master/CapstonOne%20%231%20-%20Policing_Minneapolis.ipynb
+Cappstone #1 Policing Meanneapolis 
 Overview: Based on a data pulled from minneapolis.gov pupblic saftery police stop data, analysis is made to explore how the data is populated. This data is availbe at any time. Only precinct 1 to 5 are selected to do this analysis. 
 
 Four major questions were raised in this report.
