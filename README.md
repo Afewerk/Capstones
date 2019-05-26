@@ -11,7 +11,5 @@ Four major questions were raised in this report.
   > Explore post stop reports and show who gets the most citation
   
   Data Source: 
-  > www.mineapolismn.gov  
-  http://opendata.minneapolismn.gov/datasets/police-stop-data
-  > Census:  
-  https://www.census.gov/quickfacts/fact/table/mn/PST045218
+  > mineapolismn -- http://opendata.minneapolismn.gov/datasets/police-stop-data
+  > Census --  https://www.census.gov/quickfacts/fact/table/mn/PST045218
