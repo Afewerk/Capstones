@@ -12,4 +12,5 @@ Four major questions were raised in this report.
   
   Data Source: 
   > mineapolismn -- http://opendata.minneapolismn.gov/datasets/police-stop-data
+  
   > Census --  https://www.census.gov/quickfacts/fact/table/mn/PST045218
