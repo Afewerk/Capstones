@@ -1,5 +1,5 @@
 
-# Capstons 
+# Capstones 
 Cappstone #1 Meanneapolis Police Stop Data from precinct 1 to 5 during 2016-10 to 2019-04
 
 Overview: This report explores the Minneapolis 5 precint police stop data found in website below. The dataset has ~120k rows, 19 and 19 columns. For this report, the 'responseDate', 'policePrecinct', 'citationIssued', 'race', and 'neighborhood' are analysed to get insite in to policing behaviors. 
