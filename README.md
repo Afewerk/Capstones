@@ -6,10 +6,10 @@ Overview: This report explores the Minneapolis 5 precint police stop data found 
 
 The bottom four major questions were raised in this report.
 
-  > Examine how each precinct handled calls for given demographics.
-  > Identify and describe outliers with in the dataset
-  > Explore post stop reports and show who gets the most citation
-  > Provide predictions for future reporting
+  1. Examine how each precinct handled calls for given demographics.
+  2. Identify and describe outliers with in the dataset
+  3. Explore post stop reports and show who gets the most citation
+  4. Provide predictions for future reporting
   
   
   Reference: 
