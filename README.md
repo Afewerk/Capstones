@@ -1,8 +1,9 @@
 
-# Capstones 
-Cappstone #1 Meanneapolis Police Stop Data from precinct 1 to 5 during 2016-10 to 2019-04
 
-Overview: This report explores the Minneapolis 5 precint police stop data found in website below. The dataset has ~120k rows, 19 and 19 columns. For this report, the 'responseDate', 'policePrecinct', 'citationIssued', 'race', and 'neighborhood' are analysed to get insite in to policing behaviors. 
+# Capstones 
+Capstone #1 Minneapolis Police Stop Data from precinct 1 to 5 during 2016-10 to 2019-04
+
+Overview: This report explores the Minneapolis 5 precinct police traffic stop data found in website below. The dataset has ~120k rows, 19 and 19 columns and spans for 910 days. For this report, the 'responseDate', 'policePrecinct', 'citationIssued', 'race', and 'neighborhood' are analyzed to get insight in to policing behaviors. 
 
 The bottom four major questions were raised in this report.
 
@@ -12,8 +13,8 @@ The bottom four major questions were raised in this report.
   4. Provide predictions for future reporting
   
   
-  Reference: 
-  
+  Reference:
+
   > mineapolismn -- http://opendata.minneapolismn.gov/datasets/police-stop-data
   
   > Census --  https://www.census.gov/quickfacts/fact/table/mn/PST045218
