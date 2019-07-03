@@ -29,4 +29,6 @@ Bases on our hyphothesis there seems to be close corelation between the two samp
 
 Reference:
 
-> Project, T. M. (2017, February 10). Crime in Context, 1975-2015. Retrieved from https://www.kaggle.com/marshallproject/crime-rates
+> Crime in context -- Project, T. M. (2017, February 10). Crime in Context, 1975-2015. Retrieved from https://www.kaggle.com/marshallproject/crime-rates
+
+> The Report -- https://github.com/Afewerk/Capstones/blob/master/Capstone_Two.ipynb
