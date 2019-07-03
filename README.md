@@ -20,3 +20,13 @@ The bottom four major questions were raised in this report.
   > Census --  https://www.census.gov/quickfacts/fact/table/mn/PST045218
 
   > The Report -- https://github.com/Afewerk/Capstones/blob/master/CapstonOne%20%231%20-%20Policing-Minneapolis.ipynb
+
+Capstone #2 Is crime rate increasing in America?
+
+Overview: The crime data is collected from over 18,000 police agencies and FBI cooperation. It consists of 2829 rows and 15 columns and was taken from 1975 to 2015. The columns used for this roport are 'report_year', 'agency_jurisdiction', 'population', 'homicides_percapita', and 'crimes_percapita' respectively. However, for the fila analysis, homicides_percapita is chosen to show if the rate or increase or decrease for the first 20 years is equal to the 2nd 20 years. 
+
+Bases on our hyphothesis there seems to be close corelation between the two samples taken from the entire dataset.
+
+Reference:
+
+> Project, T. M. (2017, February 10). Crime in Context, 1975-2015. Retrieved from https://www.kaggle.com/marshallproject/crime-rates
